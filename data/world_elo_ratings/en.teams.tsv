@@ -1,0 +1,315 @@
+DN	Aden
+AF	Afghanistan
+AL	Albania
+DZ	Algeria
+AD	Andorra
+AO	Angola
+AI	Anguilla
+AG	Antigua and Barbuda	Antigua & Barbuda	Antigua/Barbuda	Antigua/Barb
+AR	Argentina
+AM	Armenia
+AW	Aruba
+AU	Australia
+AT	Austria
+AH	Austria-Hungary
+AZ	Azerbaijan
+BS	Bahamas
+BS_loc	in the Bahamas	in Bahamas
+BH	Bahrain
+BD	Bangladesh
+BB	Barbados
+BY	Belarus
+BC	Belgian Congo	Belg Congo
+BE	Belgium
+BZ	Belize
+BJ	Benin
+BM	Bermuda
+BT	Bhutan
+HA	Bohemia
+EM	Bohemia and Moravia	Bohemia & Moravia	Bohemia/Moravia	Bohemia/Morav	Bohemia/Mor
+BO	Bolivia
+BQ	Bonaire
+BA	Bosnia and Herzegovina	Bosnia & Herzegovina	Bosnia/Herzegovina	Bosnia/Herzeg	Bosnia/Herz
+BW	Botswana
+VG	British Virgin Islands	Br Virgin Islands	Br Virgin Isl	Br Virgin I
+VG_loc	in the British Virgin Islands	in the Br Virgin Islands	in the Br Virgin Isl	in Br Virgin Isl	in Br Virgin I	in Br Virg I
+BX	British Honduras	Br Honduras
+RI	British India	Br India
+RG	British Guiana	Br Guiana
+BR	Brazil
+BN	Brunei
+BG	Bulgaria
+BF	Burkina Faso
+BU	Burma
+BI	Burundi
+KH	Cambodia
+CM	Cameroon
+CA	Canada
+CV	Cape Verde
+KY	Cayman Islands	Cayman Isl
+KY_loc	in the Cayman Islands	in the Cayman Isl	in the Cayman I	in Cayman I
+CE	Ceylon
+TD	Chad
+HG	Chagos Islands	Chagos Isl
+CL	Chile
+CN	China
+DS	Commonwealth of Independent States	Commonwealth of Indep States	Comm of Indep States	Comm of Ind States	Comm of Ind St	CIS
+DS_loc	in the Commonwealth of Independent States	in the CIS	in CIS
+CF	Central African Republic	Central African Rep	C African Rep	C Afr Rep
+CO	Colombia
+KM	Comoros
+KM_loc	in the Comoros	in Comoros
+CG	Congo
+CJ	Congo-Leopoldville	Congo-Leopoldv	Congo-Leop
+CQ	Congo-Kinshasa	Congo-Kinsh
+CK	Cook Islands
+CK_loc	in the Cook Islands	in the Cook Isl	in Cook Isl
+CR	Costa Rica
+HR	Croatia
+CU	Cuba
+CW	Curaçao
+CY	Cyprus
+CZ	Czechia
+CS	Czechoslovakia
+DH	Dahomey
+DK	Denmark
+DJ	Djibouti
+DM	Dominica
+DO	Dominican Republic	Dominican Rep	Dominican R
+DO_loc	in the Dominican Republic	in the Dominican Rep	in the Dominican R	in Dominican R
+CD	Democratic Republic of Congo	DR Congo
+CD_loc	in the Democratic Republic of the Congo	in the Dem Rep of the Congo	in the DR Congo	in DR Congo
+DI	Dutch East Indies	Dutch E Indies	Dutch E Ind
+DU	Dutch Guiana
+DD	East Germany	E Germany
+TL	East Timor
+AS	Eastern Samoa	East Samoa
+EC	Ecuador
+EG	Egypt
+SV	El Salvador
+EN	England
+GQ	Equatorial Guinea	Equat Guinea	Eq Guinea
+ER	Eritrea
+EE	Estonia
+ET	Ethiopia
+FO	Faroe Islands
+FO_loc	in the Faroe Islands	in the Faroe Isl	in the Faroe I	in Faroe Isl	in Faroe I
+FJ	Fiji
+FI	Finland
+FR	France
+FC	French Congo	Fr Congo
+FS	French Somaliland	Fr Somaliland
+FT	French Togoland	Fr Togoland
+GF	French Guiana	Fr Guiana
+FM	Federated States of Micronesia	FS Micronesia	FSM
+FM_loc	in the Federated States of Micronesia	in the FS Micronesia	in FSM
+GA	Gabon
+GM	Gambia
+GM_loc	in The Gambia	in Gambia
+GE	Georgia
+DE	Germany
+GH	Ghana
+GI	Gibraltar
+GC	Gold Coast
+GB	Great Britain	Gr Britain
+GR	Greece
+GL	Greenland
+GD	Grenada
+GP	Guadeloupe
+GU	Guam
+GT	Guatemala
+GN	Guinea
+GW	Guinea-Bissau	Guinea-Biss
+GY	Guyana
+HT	Haiti
+HN	Honduras
+HK	Hong Kong
+HU	Hungary
+IS	Iceland
+IN	India
+ID	Indonesia
+IR	Iran
+IQ	Iraq
+IE	Ireland
+IL	Israel
+IT	Italy
+CI	Ivory Coast
+JM	Jamaica
+JP	Japan
+JO	Jordan
+KZ	Kazakhstan
+KE	Kenya
+KU	Khmer Republic	Khmer Rep
+KI	Kiribati
+KO	Kosovo
+KD	Kurdistan
+KW	Kuwait
+KG	Kyrgyzstan
+LA	Laos
+LV	Latvia
+LB	Lebanon
+LS	Lesotho
+LR	Liberia
+LY	Libya
+LI	Liechtenstein
+LT	Lithuania
+LU	Luxembourg
+MO	Macao
+MK	Macedonia
+MG	Madagascar
+MW	Malawi
+AY	Malaya
+MY	Malaysia
+MV	Maldives
+MV_loc	in the Maldives	in Maldives
+ML	Mali
+MI	Mali Federation	Mali Fed
+MI_loc	in the Mali Federation	in the Mali Fed	in Mali Fed
+MT	Malta
+MQ	Martinique
+MR	Mauritania
+MU	Mauritius
+YT	Mayotte
+MX	Mexico
+MD	Moldova
+MC	Monaco
+MN	Mongolia
+ME	Montenegro
+MS	Montserrat
+MA	Morocco
+MZ	Mozambique
+MM	Myanmar
+NA	Namibia
+NP	Nepal
+NL	Netherlands
+NL_loc	in the Netherlands	in Netherlands
+NC	New Caledonia	N Caledonia
+NH	New Hebrides	N Hebrides
+NZ	New Zealand
+NI	Nicaragua
+NE	Niger
+NG	Nigeria
+NU	Niue
+KP	North Korea
+NV	North Vietnam	N Vietnam
+NY	North Yemen
+NS	Northern Cyprus	North Cyprus	N Cyprus
+ND	Northern Rhodesia	N Rhodesia
+NO	Norway
+AN	Netherlands Antilles	Neth Antilles	Nth Antilles
+AN_loc	in the Netherlands Antilles	in the Neth Antilles	in the N Antilles	in N Antilles
+EI	Northern Ireland	North Ireland	N Ireland
+NN	Nyasaland
+MP	Northern Mariana Islands	Northern Marianas	N Marianas
+MP_loc	in the Northern Mariana Islands	in the Northern Marianas	in the N Marianas	in N Marianas
+OM	Oman
+PK	Pakistan
+PW	Palau
+PS	Palestine
+PA	Panama
+PG	Papua New Guinea	Papua N Guinea	Papua N Guin	Papua N G
+PY	Paraguay
+PE	Peru
+PH	Philippines
+PH_loc	in the Philippines	in Philippines
+PL	Poland
+PT	Portugal
+PU	Portuguese Guinea	Port Guinea
+PR	Puerto Rico
+QA	Qatar
+RE	Réunion
+RH	Rhodesia
+RB	Ruanda-Urundi
+RO	Romania
+RU	Russia
+RW	Rwanda
+SP	Saar
+WS	Samoa
+SM	San Marino
+ST	São Tomé and Príncipe	São Tomé & Príncipe	São Tomé/Príncipe	São Tomé/Pr
+SA	Saudi Arabia
+SQ	Scotland
+SN	Senegal
+RS	Serbia
+RM	Serbia and Montenegro	Serbia & Montenegro	Serbia/Montenegro	Serbia/Mont
+SC	Seychelles
+SC_loc	in the Seychelles	in Seychelles
+SL	Sierra Leone
+SG	Singapore
+SK	Slovakia
+SI	Slovenia
+SB	Solomon Islands	Solomon Isl
+SB_loc	in the Solomon Islands	in the Solomon Isl	in Solomon Isl	in Solomon I
+SO	Somalia
+JS	Somaliland
+ZA	South Africa
+KR	South Korea
+SS	South Sudan
+RV	South Vietnam	S Vietnam
+DY	South Yemen
+ZD	Southern Rhodesia	S Rhodesia
+ES	Spain
+LK	Sri Lanka
+BL	Saint Barthélemy	St Barthélemy	St Barts
+KT	Saint Kitts
+KN	Saint Kitts and Nevis	St Kitts and Nevis	St Kitts/Nevis	St Kitts/N
+LC	Saint Lucia
+SX	Sint Maarten
+MF	Saint Martin
+PM	Saint Pierre and Miquelon	St Pierre and Miquelon	St Pierre & Miquelon	St Pierre/Miquelon	St Pierre/Miquel	St Pierre/Miq	St Pierre/M
+VC	Saint Vincent and the Grenadines	St Vincent & Grenadines	St Vincent/Grenadines	St Vincent/Gren	St Vincent/G
+SD	Sudan
+SR	Suriname
+SW	Swatini
+SZ	Swaziland
+SE	Sweden
+CH	Switzerland
+SY	Syria
+TI	Tahiti
+TW	Taiwan
+TJ	Tajikistan
+TY	Tanganyika
+TZ	Tanzania
+TH	Thailand
+TE	Tibet
+TG	Togo
+TO	Tonga
+TT	Trinidad and Tobago	Trinidad & Tobago	Trinidad/Tobago	Trinidad/Tob
+TN	Tunisia
+TR	Turkey
+TM	Turkmenistan
+TC	Turks and Caicos	Turks & Caicos	Turks/Caicos
+TV	Tuvalu
+AE	United Arab Emirates	UAE
+AE_loc	in the United Arab Emirates	in UAE
+UH	Ubangi-Shari
+UG	Uganda
+UA	Ukraine
+RR	United Arab Republic	UAR
+RR_loc	in the United Arab Republic	in UAR
+UK	United Kingdom	UK
+UK_loc	in the United Kingdom	in the UK
+UV	Upper Volta
+UY	Uruguay
+VI	US Virgin Islands	US Virgin Isl
+VI_loc	in the US Virgin Islands	in the US Virgin Isl	in US Virgin Isl	in US Virgin I	in US Virg I
+US	United States	USA
+US_loc	in the United States	in USA
+SU	Soviet Union	USSR
+SU_loc	in the Soviet Union	in USSR
+UZ	Uzbekistan
+VU	Vanuatu
+VA	Vatican
+VE	Venezuela
+VN	Vietnam
+WA	Wales
+WF	Wallis and Futuna	Wallis & Futuna	Wallis/Futuna
+WG	West Germany	W Germany
+EH	Western Sahara	W Sahara
+WM	Western Samoa	West Samoa
+YE	Yemen
+YU	Yugoslavia
+ZR	Zaire
+ZM	Zambia
+ZN	Zanzibar
+ZW	Zimbabwe

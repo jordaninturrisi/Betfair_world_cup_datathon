@@ -1,0 +1,88 @@
+dateHeader	Date
+matchHeader	Match
+fixtureHeader	Match
+tournamentHeader	Tournament
+changesHeader	Rating
+movesHeader	Rank
+ranksMenuLabel	Rank
+rankHeader	Rank	#
+currentHeader	Current
+currentMenuLabel	Current Rank / Rating
+winexpHeader	Winning Expectancy	Winning Exptcy	Win Exptcy	Win Exp	WE
+estimateHeader	Points Exchanged
+drawHeader	Draw	Draw	Draw	Draw	D
+change1Header	Win By 1	Win × 1	Win×1	W × 1	W×1
+change2Header	Win By 2	Win × 2	Win×2	W × 2	W×2
+change3Header	Win By 3	Win × 3	Win×3	W × 3	W×3
+change4Header	Win By 4	Win × 4	Win×4	W × 4	W×4
+change5Header	Win By 5	Win × 5	Win×5	W × 5	W×5
+localHeader	Local	L
+globalHeader	Global	G
+teamHeader	Team
+ratingHeader	Rating	R
+changeHeader	Change
+changeMenuLabel	Change in Rank / Rating
+highestHeader	Highest
+highestMenuLabel	Highest Rank / Rating
+averageHeader	Average
+averageMenuLabel	Average Rank / Rating
+lowestHeader	Lowest
+lowestMenuLabel	Lowest Rank / Rating
+change3mHeader	Three Month Change	3 Month Change	3 Month Δ	3M Δ
+change6mHeader	Six Month Change	6 Month Change	6 Month Δ	6M Δ
+change1yHeader	One Year Change	1 Year Change	1 Year Δ	1Y Δ
+change2yHeader	Two Year Change	2 Year Change	2 Year Δ	2Y Δ
+change5yHeader	Five Year Change	5 Year Change	5 Year Δ	5Y Δ
+change10yHeader	Ten Year Change	10 Year Change	10 Year Δ	10Y Δ
+matchesHeader	Matches
+matchesMenuLabel	Match Statistics
+totalHeader	Total	T
+homeHeader	Home	H
+awayHeader	Away	A
+neutralHeader	Neutral	N
+winsHeader	Wins	W
+lossesHeader	Losses	L
+drawsHeader	Draws	D
+goalsHeader	Goals
+goalsMenuLabel	Goal Statistics
+forHeader	For	F
+againstHeader	Against	A
+locativePreposition	in
+mainTitle	World Football Elo Ratings	Elo Ratings
+latestTitle	Latest Results	Results
+fixturesTitle	Upcoming Matches	Fixtures
+graphTitle	Rating Graph	Graph
+upsetTitle	Biggest Upsets	Upsets
+mainSubtitle	Ratings and Statistics	Ratings
+startSubtitle	Starting Ratings and Statistics	Starting Ratings	Start
+endSubtitle	Final Ratings and Statistics	Final Ratings	End
+dateSubtitle	Ratings and Statistics as of	Ratings as of
+latestSubtitle	Latest results and Elo points exchanged	Latest results and points exchanged	Latest results	Results
+resultsSubtitle	Results and Elo points exchanged	Results and points exchanged	Results
+fixturesSubtitle	Upcoming matches, winning expectancies, and estimates of Elo points exchanged	Upcoming matches, winning expectancies, and Elo point estimates	Upcoming matches and Elo point estimates	Upcoming matches and estimates	Upcoming matches	Fixtures
+graphSubtitle	Elo rating evolution over time	Elo rating graph	Rating graph	Graph
+upsetSubtitle	Biggest upsets, ratings and points exchanged	Biggest upsets and points exchanged	Biggest upsets
+matchSubtitle	matches, ratings and points exchanged	matches and points exchanged	matches
+aboutSubtitle	About World Football Elo Ratings	About Elo Ratings
+contactSubtitle	Contact World Football Elo Ratings	Contact Elo Ratings
+ratingMenuLabel	Rating
+ratingsMenuLabel	Ratings	Ratings
+resultsMenuLabel	Results	Results
+fixturesMenuLabel	Fixtures	Fixtures
+graphMenuLabel	Graph	Graph
+startMenuLabel	Starting Ratings	Start
+endMenuLabel	Final Ratings	End
+curMenuLabel	Current Ratings	Current
+worldMenuLabel	World Ratings
+latestMenuLabel	Latest Results
+upcomingMenuLabel	Upcoming Matches
+upsetsMenuLabel	Biggest Upsets
+hockeyMenuLabel	Ice Hockey Ratings
+aboutMenuLabel	About
+contactMenuLabel	Contact
+regionsMenuLabel	Regions
+confederationsMenuLabel	Confederations
+tournamentsMenuLabel	Tournaments
+columnsMenuLabel	Columns
+successSubmit	Message sent successfully.	Sent successfully.
+errorSubmit	Could not send message.	Could not send.
